@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @faizul-mfl
 - 👀 I’m interested in develop cocos games.
-- 🌱 I’m currently learning project structure of jalebi
-- 💞️ I’m looking to collaborate on chatai
+- 🌱 I’m currently developing chatai mini game for tpg.
 - 📫 How to reach me ... slack: faizul or skype-id: md-faizul-islam
 
 <!---
